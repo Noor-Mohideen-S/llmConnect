@@ -1,6 +1,6 @@
 # llmConnect
 
-##Way to connect the valeiraConnect
+# Way to connect the valeiraConnect
 import valeiraConnect
 
 mycontent=valeiraConnect.llmConnect(
