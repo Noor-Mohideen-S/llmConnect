@@ -1,5 +1,3 @@
-# llmConnect
-
 # Way to connect the valeiraConnect
 import valeiraConnect
 
