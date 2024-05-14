@@ -1,4 +1,9 @@
 # Way to connect the valeiraConnect
+
+pip installation:
+pip install valeiraConnect==0.1
+
+code:
 import valeiraConnect
 
 mycontent=valeiraConnect.llmConnect(
